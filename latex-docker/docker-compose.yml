@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  latex:
+    build: .
+    volumes:
+      - ./src:/work/src:ro
+      - ./output:/work/output
+    command: pdflatex -output-directory=/work/output /work/src/hello.tex
