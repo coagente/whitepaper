@@ -1,0 +1,64 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*~
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Build outputs
+build/
+dist/
+out/
+
+# Node (if you add any JavaScript tooling later)
+node_modules/
+npm-debug.log*
+
+# Python (if you add any Python scripts later)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.env
+
+# LaTeX (if you generate PDFs from the markdown)
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.lb
+*.pdf
+*.dvi
+*.ps
+*.eps
+
+# Backup files
+*.bak
+*.backup
+*~
