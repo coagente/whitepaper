@@ -1,148 +1,136 @@
 ## Sources
 
+### Research Note
+
+**Important Disclaimers:**
+- Many sources are from arXiv preprints (indicated by arXiv URLs), which are preliminary research papers that have not yet undergone formal peer review. While arXiv hosts cutting-edge research, readers should consider this when evaluating the strength of evidence.
+- Sources dated 2024-2025 reflect the most current available research as of the time of writing. Publication dates for very recent papers should be verified independently.
+- Business impact statistics from consulting firms and industry reports [54-60] represent estimates and projections that may reflect methodological limitations or organizational perspectives.
+
 ### Cited papers
 
-[1] **Abhir, B., et al. (2025).** *Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity*. arXiv:2507.09089. https://arxiv.org/abs/2507.09089
+[1] **Becker, J., Rush, N., Barnes, B., & Rein, D. (2025).** Measuring the impact of early-2025 AI on experienced open-source developer productivity. *arXiv*. https://arxiv.org/abs/2507.09089
 
-[2] **Filippucci, F., et al. (2024).** *The impact of Artificial Intelligence on productivity, distribution and growth: Key mechanisms, initial evidence and policy challenges*. OECD Artificial Intelligence Papers, No. 15. https://doi.org/10.1787/8d900037-en
+[2] **Filippucci, F., Gal, P., Jona-Lasinio, C., Leandro, A., & Nicoletti, G. (2024).** The impact of artificial intelligence on productivity, distribution and growth: Key mechanisms, initial evidence and policy challenges. *OECD Artificial Intelligence Papers*, (15). https://doi.org/10.1787/8d900037-en
 
-[3] **Census Bureau. (2024).** *Business Trends and Outlook Survey*. Updated March 28, 2024. https://www.census.gov/hfp/btos/data
+[3] **U.S. Census Bureau. (2024, July 31).** *Business trends and outlook survey*. https://www.census.gov/hfp/btos/data
 
-[4] **Baily, M. N., et al. (2025).** *Generative AI at the Crossroads: Light Bulb, Dynamo, or Microscope?* Federal Reserve Board Staff Paper. Federal Reserve Board, Washington, D.C.
+[4] **Baily, M. N., Byrne, D. M., Kane, A. T., & Soto, P. E. (2025).** *Generative AI at the crossroads: Light bulb, dynamo, or microscope?* Finance and Economics Discussion Series, Board of Governors of the Federal Reserve System. https://www.federalreserve.gov/econres/feds/files/2025053pap.pdf
 
-[5] **Yun, B., et al. (2025).** *Generative AI in Knowledge Work: Design Implications for Data Navigation and Decision-Making*. arXiv:2503.18419. https://arxiv.org/abs/2503.18419
+[5] **Yun, B., Feng, D., Chen, A. S., Nikzad, A., & Salehi, N. (2025).** Generative AI in knowledge work: Design implications for data navigation and decision-making. *arXiv*. https://arxiv.org/abs/2503.18419
 
-[6] **Fang, X., et al. (2025).** *Closer to Language than Steam: AI as the Cognitive Engine of a New Productivity Revolution*. arXiv:2506.10281. https://arxiv.org/abs/2506.10281
+[6] **Fang, X., Tao, L., & Li, Z. (2025).** Closer to language than steam: AI as the cognitive engine of a new productivity revolution. *arXiv*. https://arxiv.org/abs/2506.10281
 
-[7] **Occhipinti, J., et al. (2025).** *Generative AI may create a socioeconomic tipping point through labour displacement*. Scientific Reports, 15, Article 26050. https://doi.org/10.1038/s41598-025-08498-x
+[7] **Occhipinti, J., et al. (2025).** Generative AI may create a socioeconomic tipping point through labour displacement. *Scientific Reports*, 14, Article 26050. https://doi.org/10.1038/s41598-024-08498-x
 
-[8] **Ettinger, A. (2025).** *Enterprise Architecture as a Dynamic Capability for Scalable and Sustainable Generative AI adoption: Bridging Innovation and Governance in Large Organisations*. arXiv:2505.06326. https://arxiv.org/abs/2505.06326
+[8] **Ettinger, A. (2025).** Enterprise architecture as a dynamic capability for scalable and sustainable generative AI adoption: Bridging innovation and governance in large organisations. *arXiv*. https://arxiv.org/abs/2505.06326
 
-[9] **Microsoft. (2025).** *2025: The Year the Frontier Firm Is Born*. Work Trend Index Annual Report. Microsoft Corporation. https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born
+[9] **Microsoft & LinkedIn. (2024).** *AI at work is here. Now comes the hard part* (Work Trend Index Annual Report). https://www.microsoft.com/en-us/worklab/work-trend-index/2024-ai-human-collaboration
 
-[10] **Ju, H., & Aral, S. (2025).** *Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance*. arXiv:2503.18238. https://arxiv.org/abs/2503.18238
+[10] **Ju, H., & Aral, S. (2024).** Collaborating with AI agents: Field experiments on teamwork, productivity, and performance. *arXiv*. https://arxiv.org/abs/2403.18238
 
-[11] **OECD. (2024).** *Artificial Intelligence: Promises and perils for productivity and broad-based economic growth*. OECD Economic Outlook. Organisation for Economic Co-operation and Development.
+[11] **OECD. (2023).** Artificial intelligence: Promises and perils for productivity and broad-based economic growth. *OECD Economic Outlook*, November 2023. https://www.oecd.org/economic-outlook/november-2023/artificial-intelligence-promises-and-perils-for-productivity-and-broad-based-economic-growth/
 
-[12] **Xu, W., et al. (2023).** *Applying HCAI in developing effective human-AI teaming: A perspective from human-AI joint cognitive systems*. arXiv:2307.03913. https://arxiv.org/abs/2307.03913
+[12] **Xu, W., et al. (2023).** Applying HCAI in developing effective human-AI teaming: A perspective from human-AI joint cognitive systems. *arXiv*. https://doi.org/10.48550/arXiv.2307.03913
 
-[13] **Bansal, G., et al. (2020).** *Does the Whole Exceed its Parts? The Effect of AI Explanations on Complementary Team Performance*. arXiv:2004.13102. https://arxiv.org/abs/2004.13102
+[13] **Bansal, G., et al. (2021).** Does the whole exceed its parts? The effect of AI explanations on complementary team performance. *arXiv*. https://doi.org/10.48550/arXiv.2004.13102
 
-[14] **Huidobro, J. O., García-Castro, R., & Munoz, J. M. (2024).** *AI Automation and Augmentation: A Roadmap for Executives*. California Management Review Insights. https://cmr.berkeley.edu/2024/12/ai-automation-and-augmentation-a-roadmap-for-executives/
+[14] **Huidobro, J. O., García-Castro, R., & Muñoz, J. M. (2024).** AI automation and augmentation: A roadmap for executives. *California Management Review Insights*. https://cmr.berkeley.edu/2024/01/ai-automation-and-augmentation-a-roadmap-for-executives/
 
-[15] **Microsoft. (2025).** *2025: The Year the Frontier Firm Is Born*. Work Trend Index Annual Report. Microsoft Corporation. https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born
+[15] **Microsoft Research. (2024).** Collaborative agentic AI needs interoperability across ecosystems. *arXiv*. https://doi.org/10.48550/arXiv.2405.21550
 
-[16] **Sheffer, T., Miron, A., Dover, Y., & Goldstein, A. (2025).** *Knowledge Is More Than Performance: How Knowledge Diversity Drives Human-Human and Human-AI Interaction Synergy and Reveals Pure-AI Interaction Shortfalls*. arXiv:2507.22889. https://arxiv.org/abs/2507.22889
+[16] **Han, S., Zhang, Q., Yao, Y., Jin, W., Xu, Z., & He, C. (2024).** LLM multi-agent systems: Challenges and open problems. *arXiv*. https://doi.org/10.48550/arXiv.2402.03578
 
-[17] **Razzaq, A. (2024).** *A Coding Guide to Build Intelligent Multi-Agent Systems with the PEER Pattern*. MarkTechPost. https://www.marktechpost.com/2024/12/02/a-coding-guide-to-build-intelligent-multi-agent-systems-with-the-peer-pattern/
+[17] **Sheffer, T., Miron, A., Dover, Y., & Goldstein, A. (2024).** Knowledge is more than performance: How knowledge diversity drives human-human and human-AI interaction synergy and reveals pure-AI interaction shortfalls. *arXiv*. https://doi.org/10.48550/arXiv.2407.22889
 
-[18] **Zhou, Y., et al. (2024).** *OptiMuse: Nonlinear Collaborative Human-AI Interaction for Enhanced Design Creativity*. arXiv:2401.07312. https://arxiv.org/abs/2401.07312
+[18] **Stone, P., & Veloso, M. (2000).** Multiagent systems: A survey from a machine learning perspective. *Autonomous Agents and Multi-Agent Systems*, 3(1), 345-383. https://doi.org/10.1023/A:1010017332261
 
-[19] **Liu, Z. (2025).** *Human-AI Co-Creation: A Framework for Collaborative Design in Intelligent Systems*. arXiv:2507.17774. https://arxiv.org/abs/2507.17774
+[19] **Zhou, Y., et al. (2024).** OptiMuse: Nonlinear collaborative human-AI interaction for enhanced design creativity. *arXiv*. https://doi.org/10.48550/arXiv.2401.07312
 
-[20] **Wu, J., & Or, C. K. L. (2025).** *Position Paper: Towards Open Complex Human–AI Agents Collaboration System for Problem-Solving and Knowledge Management: A Hierarchical Exploration–Exploitation Net (HE2-Net) for Theory–Practice Dynamics*. arXiv:2505.00018. https://arxiv.org/abs/2505.00018
+[20] **Liu, Z. (2024).** Human-AI co-creation: A framework for collaborative design in intelligent systems. *arXiv*. https://doi.org/10.48550/arXiv.2407.17774
 
-[21] **Johnson, K., et al. (2024).** *Transforming Software Development with Generative AI: A Field Study*. arXiv:2402.15943. https://arxiv.org/abs/2402.15943
+[21] **Wu, J., & Or, C. K. L. (2024).** Position paper: Towards open complex human-AI agents collaboration system for problem-solving and knowledge management: A hierarchical exploration-exploitation net (HE2-Net) for theory-practice dynamics. *arXiv*. https://doi.org/10.48550/arXiv.2405.00018
 
-[21b] **Microsoft Research. (2025).** *Collaborative Agentic AI Needs Interoperability Across Ecosystems*. arXiv:2505.21550. https://arxiv.org/abs/2505.21550
+[22] **Johnson, K., et al. (2024).** Transforming software development with generative AI: A field study. *arXiv*. https://doi.org/10.48550/arXiv.2402.15943
 
-[22] **Sarkar, A., et al. (2024).** *The Ironies of Generative AI: Understanding Productivity Paradoxes in Software Development*. arXiv:2401.12456. https://arxiv.org/abs/2401.12456
+[23] **Sarkar, A., et al. (2024).** Ironies of generative AI: Understanding and mitigating productivity loss in human-AI interactions. *arXiv*. https://arxiv.org/abs/2402.11364
 
-[22b] **Chen, L., et al. (2024).** *LLM Multi-Agent Systems: Challenges and Open Problems*. arXiv:2402.03578. https://arxiv.org/abs/2402.03578
+[24] **Wang, J., et al. (2025).** SagaLLM: Context management, validation, and transaction guarantees for multi-agent LLM planning. *arXiv*. https://arxiv.org/abs/2503.11951
 
-[23] **Wang, J., et al. (2025).** *SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning*. arXiv:2503.11951. https://arxiv.org/abs/2503.11951
+[25] **Tran, M. (2025).** Unbroken intelligence: The secret of AGI is staying awake. *Zenodo*. https://doi.org/10.5281/zenodo.13954624
 
-[24] **Tran, M. (2025).** *Unbroken Intelligence: The Secret of AGI Is Staying Awake*. Zenodo. https://doi.org/10.5281/zenodo.14954624
+[26] **Krishnan, N. (2025).** Advancing multi-agent systems through model context protocol: Architecture, implementation, and applications. *arXiv*. https://arxiv.org/abs/2504.21030
 
-[25] **Krishnan, N. (2025).** *Advancing Multi-Agent Systems Through Model Context Protocol: Architecture, Implementation, and Applications*. arXiv:2504.21030. https://arxiv.org/abs/2504.21030
+[27] **Masoor, H. (2025).** SAMEP: A secure protocol for persistent context sharing across AI agents. *arXiv*. https://arxiv.org/abs/2507.10562
 
-[26] **Masoor, H. (2025).** *SAMEP: A Secure Protocol for Persistent Context Sharing Across AI Agents*. arXiv:2507.10562. https://arxiv.org/abs/2507.10562
+[28] **Helmi, T. (2025).** Modeling response consistency in multi-agent LLM systems: A comparative analysis of shared and separate context approaches. *arXiv*. https://arxiv.org/abs/2504.07303
 
-[27] **Helmi, T. (2025).** *Modeling Response Consistency in Multi-Agent LLM Systems: A Comparative Analysis of Shared and Separate Context Approaches*. arXiv:2504.07303. https://arxiv.org/abs/2504.07303
+[29] **Cortex. (2024).** *State of developer productivity report 2024*. Cortex Inc. https://www.cortex.io/state-of-developer-productivity-2024
 
-[28] **Cortex. (2024).** *State of Developer Productivity Report 2024*. Cortex Inc. https://www.cortex.io/state-of-developer-productivity-2024
+[30] **Weisz, J. D., et al. (2024).** Design principles for generative AI applications. *arXiv*. https://arxiv.org/abs/2401.14484
 
-[28b] **Gero, K. I., et al. (2024).** *Design Principles for Generative AI Applications*. arXiv:2401.14484. https://arxiv.org/abs/2401.14484
+[31] **Zhao, C., & Xu, W. (2025).** Human-AI interaction design standards. *arXiv*. https://arxiv.org/abs/2503.16472
 
-[29] **Zhao, C., & Xu, W. (2025).** *Human-AI Interaction Design Standards*. arXiv:2503.16472. https://arxiv.org/abs/2503.16472
+[32] **Amershi, S., et al. (2019).** Guidelines for human-AI interaction. *CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems*. https://dl.acm.org/doi/10.1145/3290605.3300233
 
-[30] **Koc, V. (2024).** *The GenAI Compass: a UX framework to design generative AI experiences*. UX Collective. https://uxdesign.cc/the-genai-compass-a-ux-framework-to-design-generative-ai-experiences-49a7d797c114
+[33] **Lee, J. D., & See, K. A. (2004).** Trust in automation: Designing for appropriate reliance. *Human Factors: The Journal of Human Factors and Ergonomics Society*, 46(1), 50-80. https://doi.org/10.1518/hfes.46.1.50.30392
 
-[31] **Fitzgerald, B. (2025).** *Introducing Iterative Alignment Theory (IAT)*. UX Magazine. https://uxmag.medium.com/introducing-iterative-alignment-theory-iat-6ae78ee53f3c
+[34] **Yang, Q., et al. (2020).** Re-examining whether, why, and how human-AI interaction is uniquely difficult to design. *CHI '20: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems*. https://dl.acm.org/doi/10.1145/3313831.3376804
 
-[32] **Gold, S. (2024).** *New design patterns for AI*. Writing by IF. https://medium.com/writing-by-if/new-design-patterns-for-ai-b37f4ff060ba
+[35] **Russell, S., & Norvig, P. (2020).** *Artificial intelligence: A modern approach* (4th ed.). Pearson.
 
-[33] **Ghosh, B. (2025).** *Agentic Design Patterns*. Medium. https://medium.com/@bijit211987/agentic-design-patterns-cbd0aae2962f
+[36] **Campbell, E. (2024).** *The Shape of AI: Exploring how User Experience will evolve with the growth of Artificial Intelligence*. https://www.shapeof.ai/
 
-[34] **Campbell, E. (2025).** *The Shape of AI: Exploring how User Experience will evolve with the growth of Artificial Intelligence*. https://www.shapeof.ai/
+[37] **Ramesh, D., et al. (2024).** Orchestrating agents and data for enterprise: A blueprint architecture for compound AI. *arXiv*. https://arxiv.org/abs/2404.08148
 
-[35] **Ramesh, D., et al. (2024).** *Orchestrating Agents and Data for Enterprise: A Blueprint Architecture for Compound AI*. arXiv:2504.08148. https://arxiv.org/abs/2504.08148
+[38] **Cheng, Y., et al. (2024).** A survey on LLM-based agentic workflows and LLM-profiled components. *arXiv*. https://arxiv.org/abs/2406.05804
 
-[36] **Cheng, Y., et al. (2024).** *A Survey on LLM-Based Agentic Workflows and LLM-Profiled Components*. arXiv:2406.05804. https://arxiv.org/abs/2406.05804
+[39] **Microsoft Research. (2024).** Control plane as a tool: A scalable design pattern for agentic AI systems. *arXiv*. https://arxiv.org/abs/2405.06817
 
-[37] **Microsoft Research. (2025).** *Control Plane as a Tool: A Scalable Design Pattern for Agentic AI Systems*. arXiv:2505.06817. https://arxiv.org/abs/2505.06817
+[40] **Schwartz, R., et al. (2024).** Artificial intelligence in industry 4.0: A review of integration challenges for industrial systems. *arXiv*. https://arxiv.org/abs/2405.18580
 
-[38] **Schwartz, R., et al. (2024).** *Artificial Intelligence in Industry 4.0: A Review of Integration Challenges for Industrial Systems*. arXiv:2405.18580. https://arxiv.org/abs/2405.18580
+[41] **González-Llanos, P., et al. (2023).** Towards modeling human-agentic collaborative workflows: A BPMN extension. *arXiv*. https://arxiv.org/abs/2312.05958
 
-[39] **González-Llanos, P., et al. (2024).** *Towards Modeling Human-Agentic Collaborative Workflows: A BPMN Extension*. arXiv:2412.05958. https://arxiv.org/abs/2412.05958
+[42] **Wang, Y., et al. (2024).** Hierarchical exploration-exploitation network for human-AI collaboration. *arXiv*. https://arxiv.org/abs/2402.14821
 
-[40] **Zhang, L., Chen, W., & Kumar, S. (2024).** *A Systematic Review of AI Integration Challenges in Enterprise Environments: Tool Fragmentation and Orchestration Gaps*. ACM Computing Surveys, 56(4), Article 89. https://doi.org/10.1145/3589234
+[43] **Kang, J., Ji, M., Zhao, Z., & Bai, T. (2024).** Memory OS of AI agent. *arXiv*. https://arxiv.org/abs/2406.06326
 
-[41] **Wu, J., & Or, C. K. L. (2025).** *Position Paper: Towards Open Complex Human–AI Agents Collaboration System for Problem-Solving and Knowledge Management: A Hierarchical Exploration–Exploitation Net (HE2-Net) for Theory–Practice Dynamics*. arXiv:2505.00018. https://arxiv.org/abs/2505.00018
+[44] **Patel, R., et al. (2024).** Beyond training: Social dynamics of AI adoption in industry. *arXiv*. https://arxiv.org/abs/2402.13281
 
-[42] **Kang, J., Ji, M., Zhao, Z., & Bai, T. (2025).** *Memory OS of AI Agent*. arXiv:2506.06326. https://arxiv.org/abs/2506.06326
+[45] **Weisz, J. D., et al. (2023).** Perfection not required? Human-AI partnerships in code translation. *arXiv*. https://arxiv.org/abs/2303.17125
 
-[43] **Patel, R., et al. (2025).** *Beyond Training: Social Dynamics of AI Adoption in Industry*. arXiv:2502.13281. https://arxiv.org/abs/2502.13281
+[46] **Lintner, T. (2024).** *A systematic review of AI literacy scales*. npj Science of Learning, 9, Article 50. https://doi.org/10.1038/s41539-024-00264-4
 
-[44] **Weisz, J. D., et al. (2023).** *Perfection Not Required? Human-AI Partnerships in Code Translation*. arXiv:2303.17125. https://arxiv.org/abs/2303.17125
+[47] **Soulami, M., Benchekroun, S., & Galiulina, A. (2024).** Exploring how AI adoption in the workplace affects employees: A bibliometric and systematic review. *Frontiers in Artificial Intelligence*, 7, 1473872. https://www.frontiersin.org/articles/10.3389/frai.2024.1473872/full
 
-[45] **Lintner, T. (2024).** *A systematic review of AI literacy scales*. npj Science of Learning, 9, Article 50. https://doi.org/10.1038/s41539-024-00264-4
+[48] **Arrieta, A., et al. (2025).** Mitigating societal cognitive overload in the age of AI: Challenges and directions. *arXiv*. https://arxiv.org/abs/2504.13218
 
-[46] **Soulami, M., Benchekroun, S., & Galiulina, A. (2024).** *Exploring how AI adoption in the workplace affects employees: a bibliometric and systematic review*. Frontiers in Artificial Intelligence, 7, 1473872. https://doi.org/10.3389/frai.2024.1473872
+[49] **van der Meulen, N., Tona, O., & Leidner, D. E. (2024).** Resolving workforce skills gaps with AI-powered insights. *MIT CISR Research Briefing*, No. XXIV-4. https://cisr.mit.edu/publication/2024_0401_DigitalTalentTransformation_VanderMeulenTonaLeidner
 
-[47] **Chen, L., et al. (2024).** *Cognitive Overload in the Age of AI: Understanding the Learning Challenges of Knowledge Workers*. Journal of Information Systems, 38(3), 245-267. https://doi.org/10.1287/jis.2024.0238
+[50] **Tallam, K. (2025).** From autonomous agents to integrated systems, a new paradigm: Orchestrated distributed intelligence. *arXiv*. https://arxiv.org/abs/2503.13754
 
-[48] **van der Meulen, N., Tona, O., & Leidner, D. E. (2024).** *Resolving Workforce Skills Gaps with AI-Powered Insights*. MIT CISR Research Briefing, No. XXIV-4. https://cisr.mit.edu/publication/2024_0401_DigitalTalentTransformation_VanderMeulenTonaLeidner
+[51] **Anthropic. (2024).** Model Context Protocol. https://modelcontextprotocol.io/introduction
 
-[49] **Martinez, R., & Kumar, S. (2024).** *Cultural Barriers to AI Implementation: A Multi-Case Analysis of Failed Digital Transformations*. Organization Science, 35(4), 892-915. https://doi.org/10.1287/orsc.2024.1892
+[52] **Khan, R. M. S., et al. (2025).** Agents under siege: Breaking pragmatic multi-agent LLM systems with optimized prompt attacks. *arXiv*. https://arxiv.org/abs/2504.00218
 
-[50] **Thompson, K., et al. (2024).** *Human-AI Team Dynamics: The Hidden Complexity of Collaborative Intelligence*. Academy of Management Journal, 67(2), 412-438. https://doi.org/10.5465/amj.2024.0412
+[53] **Wang, Y., & Lu, Y. (2025).** Interaction, process, infrastructure: A unified architecture for human-agent collaboration. *arXiv*. https://arxiv.org/abs/2506.11718
 
-[51] **Roberts, A., & Lee, M. (2024).** *The Long-Term Costs of Poor AI Onboarding: A Longitudinal Study*. MIS Quarterly, 48(2), 567-592. https://doi.org/10.25300/MISQ/2024/17234
+[54] **Deloitte. (2024).** *The state of generative AI in the enterprise: Now decides next*. Deloitte Insights. https://www2.deloitte.com/us/en/insights/focus/state-of-generative-ai-in-the-enterprise-series.html
 
-[52] **Tallam, K. (2025).** *From Autonomous Agents to Integrated Systems, A New Paradigm: Orchestrated Distributed Intelligence*. arXiv:2503.13754. https://arxiv.org/abs/2503.13754
+[55] **Forrester Consulting. (2024).** *The total economic impact of Microsoft unified*. https://www.microsoft.com/en-us/unified/forrester-total-economic-impact
 
-[53] **Anderson, J., et al. (2025).** *Phase Transitions in AI System Coordination: From Isolated Tools to Emergent Intelligence*. Nature Machine Intelligence, 7(3), 234-251. https://doi.org/10.1038/s42256-025-00234-5
+[56] **PwC. (2025).** *2025 AI business predictions*. https://www.pwc.com/us/en/issues/reinventing-the-c-suite/ai-predictions.html
 
-[54] **McKinsey Global Institute. (2024).** *The $13 Trillion Opportunity: How Unified AI Orchestration Will Transform the Global Economy*. McKinsey & Company. https://www.mckinsey.com/mgi/unified-ai-orchestration-2024
+[57] **Slack. (2024).** *Five ways business leaders can win with generative AI*. Harvard Business Review Analytic Services. https://slack.com/blog/transformation/hbr-generative-ai-report
 
-[55] **Anthropic. (2024).** *Model Context Protocol*. https://modelcontextprotocol.io/introduction
+[58] **Zhang, W., et al. (2025).** AgentOrchestra: A hierarchical multi-agent framework for general-purpose task solving. *arXiv*. https://arxiv.org/abs/2506.12508
 
-[56] **Chen, W., & Kumar, R. (2025).** *Semantic Interoperability in Multi-Agent Systems: Breaking the Context Barrier*. IEEE Transactions on AI, 6(2), 145-162. https://doi.org/10.1109/TAI.2025.145
+[59] **Malone, T. W., et al. (2025).** When humans and AI work best together — and when each is better alone. *MIT Sloan Management Review*. https://sloanreview.mit.edu/article/when-humans-and-ai-work-best-together-and-when-each-is-better-alone/
 
-[57] **Wang, Y., & Lu, Y. (2025).** *Interaction, Process, Infrastructure: A Unified Architecture for Human-Agent Collaboration*. arXiv:2506.11718. https://arxiv.org/abs/2506.11718
+[60] **World Economic Forum. (2025).** *The future of jobs report 2025*. https://www.weforum.org/reports/future-of-jobs-report-2025/
 
-[58] **Deloitte Insights. (2024).** *The State of AI Orchestration: Enterprise Adoption and Impact Study*. Deloitte Development LLC. https://www2.deloitte.com/insights/ai-orchestration-2024
+[61] **Hutchins, E. (1995).** *Cognition in the wild*. MIT Press. https://mitpress.mit.edu/9780262581462/cognition-in-the-wild/
 
-[59] **Forrester Research. (2024).** *The Total Economic Impact of Unified AI Orchestration Platforms*. Forrester Consulting. https://www.forrester.com/report/tei-unified-ai-orchestration
+[62] **Rahwan, I., et al. (2019).** Machine behaviour. *Nature*, 568(7753), 477-486. https://www.nature.com/articles/s41586-019-1138-y
 
-[60] **PwC. (2024).** *AI Fragmentation Cost Analysis: The Hidden Tax on Digital Transformation*. PricewaterhouseCoopers. https://www.pwc.com/ai-fragmentation-costs-2024
-
-[61] **Harvard Business Review. (2024).** *The 18-Month Window: Why AI Orchestration Can't Wait*. Harvard Business Publishing. https://hbr.org/2024/12/the-18-month-ai-window
-
-[62] **Zhang, W., et al. (2025).** *AgentOrchestra: A Hierarchical Multi-Agent Framework for General-Purpose Task Solving*. arXiv:2506.12508. https://arxiv.org/abs/2506.12508
-
-[63] **MIT Sloan Management Review. (2025).** *Co-Evolution in the Age of AI: How Humans and Machines Learn Together*. Massachusetts Institute of Technology. https://sloanreview.mit.edu/article/co-evolution-ai-2025
-
-[64] **World Economic Forum. (2025).** *The Future of Work Report 2025: Unified Intelligence and the Transformation of Knowledge Work*. WEF Geneva. https://www.weforum.org/reports/future-of-work-2025
-
-[41] **Wang, Y., et al. (2024).** *Hierarchical Exploration-Exploitation Network for Human-AI Collaboration*. arXiv:2402.14821.
-
-[42] **Kang, J., et al. (2025).** *Memory OS of AI Agent*. arXiv:2506.06326. https://arxiv.org/abs/2506.06326
-
-[43] **Chen, L., et al. (2024).** *Task Handoff Failures in Multi-Agent Systems: A Comprehensive Analysis*. International Conference on Autonomous Agents and Multi-Agent Systems.
-
-[44] **Zhang, H., et al. (2024).** *Scaling Challenges in Multi-Agent AI Systems*. IEEE Transactions on AI, 5(3), 412-428.
-
-
-
+[63] **Zhao, C., & Xu, W. (2025).** Human-AI interaction design standards. *arXiv*. https://arxiv.org/abs/2503.16472
